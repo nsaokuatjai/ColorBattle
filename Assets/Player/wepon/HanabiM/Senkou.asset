@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de5b6b37c49f79a448a2f9801dcb5b97, type: 3}
+  m_Name: Senkou
+  m_EditorClassIdentifier: 
+  item: {fileID: 4277124423871035653, guid: c763e59b017f4d040a1af7fed1e01e58, type: 3}
+  item_imege: {fileID: 21300000, guid: d31b7412f0c44c047bcb974e6c8ff1d5, type: 3}
+  ex_text: "\u82E5\u5E72\u3060\u304C\u6301\u7D9A\u6642\u9593\u9577\u3044"
+  name: "\u7DDA\u9999\u82B1\u706B"

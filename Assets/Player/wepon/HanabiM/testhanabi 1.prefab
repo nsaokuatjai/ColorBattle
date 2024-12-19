@@ -1,0 +1,138 @@
+<<<<<<< HEAD
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4277124423871035653
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2635813406384316216}
+  - component: {fileID: 6631887261955027189}
+  - component: {fileID: 1464685660837247465}
+  m_Layer: 0
+  m_Name: testhanabi 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2635813406384316216
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4277124423871035653}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.57296556, y: -0.5178019, z: -0.032389957}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6631887261955027189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4277124423871035653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c09ba42a80648142aa91c3e6d9541e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  destroy_time: 10
+--- !u!114 &1464685660837247465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4277124423871035653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 259053ddab88f614b85b677ec1869a03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hanabi_power: 0.1
+  equipment_tama_num: 3
+  hanabi:
+  - {fileID: 9186085264843675700, guid: 9395044a4531521478fc73984ee648fe, type: 3}
+  attack_num: 2
+  attack_loop_num: 5
+  attack_rate: 0.1
+=======
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4277124423871035653
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2635813406384316216}
+  - component: {fileID: 6631887261955027189}
+  - component: {fileID: 1464685660837247465}
+  m_Layer: 0
+  m_Name: testhanabi 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2635813406384316216
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4277124423871035653}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.57296556, y: -0.5178019, z: -0.032389957}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6631887261955027189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4277124423871035653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c09ba42a80648142aa91c3e6d9541e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  destroy_time: 10
+--- !u!114 &1464685660837247465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4277124423871035653}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 259053ddab88f614b85b677ec1869a03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hanabi_power: 0.1
+  equipment_tama_num: 3
+  hanabi:
+  - {fileID: 9186085264843675700, guid: 9395044a4531521478fc73984ee648fe, type: 3}
+  attack_num: 2
+  attack_loop_num: 1
+  attack_rate: 0.1
+  id_hanabi: 0
+>>>>>>> 5362f3d41194d888504132dfdcb369c0c9119467

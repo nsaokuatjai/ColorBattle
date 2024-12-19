@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84d0dd23147d3404e98c239980dac88c, type: 3}
+  m_Name: Hasadai
+  m_EditorClassIdentifier: 
+  item: {fileID: 8172535906315940690, guid: fd9b37a19fc534048bf728a9754cd5cc, type: 3}
+  item_imege: {fileID: -1078274392, guid: 923697766ec6782458622e84213c4000, type: 3}
+  ex_text: "\u6700\u5F37"
+  name: "\u795E"

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15df12d26121a6d48842efcd8929f640, type: 3}
+  m_Name: WeponHasya
+  m_EditorClassIdentifier: 
+  item:
+  - {fileID: 11400000, guid: ec64d6c180d0d9342a7623cc619426ee, type: 2}
+  - {fileID: 11400000, guid: 9d0cf5489ff91424c8c985f726f8a6b0, type: 2}
+  - {fileID: 11400000, guid: 56b130194b7556545926c9b2a1a7ac10, type: 2}
+  - {fileID: 11400000, guid: a85c610a452441e408ae604added75c5, type: 2}
+  - {fileID: 11400000, guid: 2f51edb19368ecb4ca9f563b1443b0db, type: 2}

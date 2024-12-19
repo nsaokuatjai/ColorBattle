@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15df12d26121a6d48842efcd8929f640, type: 3}
+  m_Name: WeponHanabi
+  m_EditorClassIdentifier: 
+  item:
+  - {fileID: 11400000, guid: 554bc1d607bb2334a9ab88b4e46f9c15, type: 2}
+  - {fileID: 11400000, guid: 6a2c285d00b4b85439c8b81c48116298, type: 2}
+  - {fileID: 11400000, guid: 26f7e62f453ac68468a9b4da33342faa, type: 2}
+  - {fileID: 11400000, guid: 548be905b205e2b4a9713f0a1d214bc9, type: 2}
+  - {fileID: 11400000, guid: aa60668da0d26d6479129492f144f3c9, type: 2}
+  - {fileID: 11400000, guid: c31842d1f91050d4489cdadf700231d2, type: 2}
+  - {fileID: 11400000, guid: 983cae457030d0b4da3727ba07b5e4bc, type: 2}
+  - {fileID: 11400000, guid: 23f28f257d05c0740aebd8084aa45bad, type: 2}
+  - {fileID: 11400000, guid: db142de73be3ef94fa88900055ce7227, type: 2}
+  - {fileID: 11400000, guid: d4dbd7bfdc7fd1c45b71f81785ae4508, type: 2}
